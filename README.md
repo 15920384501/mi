@@ -1,6 +1,8 @@
 # code
 
 ## 项目说明
+仿小米商城vue单页面程序
+
 通过nodejs服务器请求数据， 添加创建静态目录，打开nodejs启动地址自动默认访问index.html文件。
 
 使用vant-ui对页面进行布局。
